@@ -116,7 +116,7 @@ p{
 	/* add an indent on the first line of 2rem */
 	/* center those paragraphs (not the text) on the page */
 	padding: 0.5rem;
-max-width: 55%;
+max-width: 55ch;
 margin-left: 2rem;
 text-align: center;}
 
@@ -131,7 +131,7 @@ a:hover{
 dl, ol, main ul{
 	/* limit the width of these lists to 55 characters */
 	margin: 1rem auto;
-	max-width: 55%;
+	max-width: 55ch;
 }
 
 dt{
