@@ -118,7 +118,7 @@ p{
 	padding: 0.5rem;
 max-width: 55ch;
 margin-left: 2rem;
-text-align: center;}
+margin: 0 auto;}
 
 a{
     color: var(--plum);
